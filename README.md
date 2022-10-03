@@ -32,11 +32,6 @@ Check out my favourite personal projects!
  - Designed 8 interactive (twitch) data visualisations using Plotly and Dash.  
  - Deployed a web-app on Heroku to allow for quick and easy access to live and historical data about Twitch and Twitch Partners.
 
-MDP Pacman Solver (Reinforcement Learning)
-
- - Designed an Markov Decision Process approach to UC Berkeley's Pac-Man problem.  
- - Evaluated value iteration and policy iteration to solve the MDP, to achieve a solution with >70% success rate.
-
  ---
 
 ###  👨‍💻 Programming Skills
