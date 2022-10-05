@@ -31,4 +31,7 @@ Check out my favourite personal projects!
  - Automated data collection from Twitch API to a MongoDB Atlas instance every 30 minutes.  
  - Designed 8 interactive (twitch) data visualisations using Plotly and Dash.  
  - Deployed a web-app on Heroku to allow for quick and easy access to live and historical data about Twitch and Twitch Partners.
+ 
+[University Course Satisfaction Predictor](https://github.com/matteofortier/LR_PROJECT) (Regression)
 
+[Exploring the Relation Between Yankees Home Games and MTA Subway Stations](https://github.com/matteofortier/MTA_EDA_Project) (EDA)
